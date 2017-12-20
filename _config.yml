@@ -45,8 +45,9 @@ author_location: "Paris, France"
 author_image: /images/ivan-gabriele.png
 
 # Sidebar Add banner
-banner_url: "http://justgoodthemes.com"
-banner_image: images/banner.jpg
+banner_url: "https://www.binance.com/?ref=10265687"
+banner_image: images/binance-banner.png
+banner_text: "If you're looking for a serious exchange to buy or sell crypto-currencies, I strongly vouch for <a href=\"https://www.binance.com/?ref=10265687\" target=\"_blank\">Binance</a>. I use it myself and wrote <a href=\"#\">a detailed article</a> to explain why it has become my main exchange."
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "//inspired-beings.us4.list-manage.com/subscribe/post?u=b6cde986b53329195cc6f9d8e&amp;id=d76e394a53"

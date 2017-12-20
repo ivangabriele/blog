@@ -27,7 +27,8 @@
     {% if site.banner_image %}
     <section class="widget widget-text">
         <p><a href="{{ site.banner_url }}" target="_blank"><img src="{{ site.baseurl }}/{{ site.banner_image }}" alt="Optional Banner Ad" /></a></p>
-    </section><!-- .widget-text-->
+        <p style="font-size: .9em; text-align: justify;">{{ site.banner_text }}</p>
+      </section><!-- .widget-text-->
     {% endif %}
 
     <section class="widget widget-recent-posts">
