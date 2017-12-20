@@ -2,5 +2,19 @@
   "clean_urls": true,
   "error_page": "404",
   "https_only": true,
-  "root": "_site/"
+  "root": "_site/",
+  "redirects": {
+    "/php-how-to-use-4-methods...ul-api-client-using-curl/": {
+      "url": "/2013/12/18/php-how-to-use-4-methods-delete-get-post-put-in-a-restful-api-client-using-curl/"
+    },
+    "/sharecode/": {
+      "url": "/2015/04/13/sharecode/"
+    },
+    "/ubuntu-web-server-cheatsheet/": {
+      "url": "/2015/06/04/ubuntu-web-server-cheatsheet/"
+    },
+    "/ubuntudebian-completely-uninstall-mysql-server/": {
+      "url": "2014/11/28/ubuntu-how-to-completely-uninstall-mysql-server/"
+    }
+  }
 }
