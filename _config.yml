@@ -9,10 +9,10 @@
 title: "Ivan Gabriele"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "Passionate Startuper and Developer."
+description: "Passionate. Entrepreneur & Developer."
 
 # Tagline near the site title
-tagline: "Passionate Startuper and Developer."
+tagline: "Passionate. Entrepreneur & Developer."
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -39,7 +39,7 @@ disqus:
 
 # Author information - author info at the bottom of the post
 author_name: "Ivan Gabriele"
-author_bio: "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
+author_bio: "CEO of Inspired Beings.<br>Founder or European Dream,<br>Mars Jump and Coinboard.<br>Actually in Paris, I also lived in São Paulo, Chicago and London. 15 years of work for more than 100 clients.<br>Occasional pianist and music composer. In love with argumentativeness, travels and surf."
 author_url:  "http://www.ivangabriele.com"
 author_location: "Paris, France"
 author_image: /images/ivan-gabriele.png
