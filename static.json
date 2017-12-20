@@ -24,6 +24,12 @@
     },
     "/tfs-extension-for-visual-studio-code/": {
       "url": "/2016/01/25/tfs-extension-for-visual-studio-code/"
+    },
+    "/symfony2-how-to-fix-the-warning-sessionhandlerread-exception/": {
+      "url": "/2014/11/03/symfony-how-to-fix-the-warning-sessionhandlerread-exception/"
+    },
+    "/php-how-to-install-intl-extension-in-xampp/": {
+      "url": "/2014/10/24/php-how-to-install-intl-extension-in-xampp/"
     }
   }
 }
