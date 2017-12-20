@@ -1,5 +1,6 @@
 {
   "clean_urls": true,
+  "error_page": "404",
   "https_only": true,
   "root": "_site/"
 }
