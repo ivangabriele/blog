@@ -14,7 +14,10 @@
       "url": "/2015/06/04/ubuntu-web-server-cheatsheet/"
     },
     "/ubuntudebian-completely-uninstall-mysql-server/": {
-      "url": "2014/11/28/ubuntu-how-to-completely-uninstall-mysql-server/"
+      "url": "/2014/11/28/ubuntu-how-to-completely-uninstall-mysql-server/"
+    },
+    "/php-how-to-install-php-accelerator-in-xampp/": {
+      "url": "/2014/10/24/php-how-to-install-php-accelerator-in-xampp/"
     }
   }
 }
