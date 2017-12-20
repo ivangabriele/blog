@@ -4,7 +4,7 @@
   "https_only": true,
   "root": "_site/",
   "redirects": {
-    "/php-how-to-use-4-methods...ul-api-client-using-curl/": {
+    "/php-how-to-use-4-methods-delete-get-post-put-in-a-restful-api-client-using-curl/": {
       "url": "/2013/12/18/php-how-to-use-4-methods-delete-get-post-put-in-a-restful-api-client-using-curl/"
     },
     "/sharecode/": {
