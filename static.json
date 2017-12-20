@@ -39,6 +39,9 @@
     },
     "/css-reset/": {
       "url": "/2013/12/02/css-reset/"
+    },
+    "/cordova-detecting-shaking/": {
+      "url": "/2014/03/07/cordova-how-to-detect-shaking/"
     }
   }
 }
