@@ -2,7 +2,7 @@
 layout: post
 title:  "[npm] How to list installed packages without their dependencies ?"
 date:   2016-01-01
-banner_image: road.jpg
+banner_image: npm.jpg
 tags: [npm]
 ---
 

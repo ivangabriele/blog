@@ -2,7 +2,7 @@
 layout: post
 title:  "[TFS] An extension for Visual Studio Code"
 date:   2016-01-25
-banner_image: road.jpg
+banner_image: visual-studio-code.png
 tags: [npm, Visual Studio Code]
 ---
 
