@@ -30,7 +30,7 @@
       <meta content="{{ site.url }}/about/" property="article:author">
     {% endif %}
     {% if page.banner_image %}
-      <meta content="/images/posts/{{ page.banner_image }}" property="og:image">
+      <meta content="{{ page.banner_image | prepend: '/images/posts/' | prepend: site.url }}" property="og:image">
     {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
