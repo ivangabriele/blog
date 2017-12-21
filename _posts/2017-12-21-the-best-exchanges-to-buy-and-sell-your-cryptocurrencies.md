@@ -27,7 +27,7 @@ Most traders you will met, who started trading in 2017 and are from a Western co
 
 ...
 
-## Conclusion
+<h2 id="Conclusion">Conclusion</h2>
 
 My empirical advice can be summed up in three bullets :
 
