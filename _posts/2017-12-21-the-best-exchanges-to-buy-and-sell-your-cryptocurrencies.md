@@ -211,7 +211,9 @@ And last but not least : they included all the Bitcoin and Ethereum forks, which
   </tbody>
 </table>
 
-**[Binance](https://www.binance.com/?ref=10265687) is the the tab that is almost always open on my browser. I have been trading daily for months on it and they earned my trust through their transparency, low fees and a nice community.**
+**[Binance](https://www.binance.com/?ref=10265687) is by far an almost-perfect exchange (put aside the so-so UX) and the constantly-openend tab on my browser. I have been trading daily for months on it and they earned my trust through their rock-solid availability, transparency, low fees and amazing community.**
+
+I would not be surprised if they become the biggest exchange at some point during the next months.
 
 <h2 id="Conclusion">Conclusion</h2>
 
