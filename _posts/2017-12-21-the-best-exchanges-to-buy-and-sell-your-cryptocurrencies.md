@@ -2,7 +2,7 @@
 layout: post
 title:  "The best exchanges to buy and sell your cryptocurrencies"
 date:   2017-12-21
-banner_image: road.jpg
+banner_image: bitcoin-trading.jpg
 tags: [Bitcoin, cryptocurrencies]
 ---
 
