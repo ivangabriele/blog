@@ -54,8 +54,8 @@ Most traders you will met, who started trading in 2017 and are from a Western co
       <td style="white-space: nowrap;">Crypto-Assets</td>
       <td style="text-align: center;">★☆☆☆</td>
       <td>
-        There are more than 1,300 crypto coins and tokens in existence,<br>
-        but only 4 available on Coinbase.
+        There are <a href="https://coinmarketcap.com/14">more than 1,300 different cryptocurrencies</a> in existence,<br>
+        but only 4 available on Coinbase...
       </td>
     </tr>
     <tr>
@@ -103,8 +103,8 @@ The strengh of GDAX lays upon its Bitcoins volumes. Indeed, this is interesting 
       <td style="white-space: nowrap;">Crypto-Assets</td>
       <td style="text-align: center;">★★☆☆</td>
       <td>
-        There are more than 1,300 crypto coins and tokens in existence,<br>
-        but only 4 available on Coinbase.
+        Only 17 different cryptocurrencies.<br>
+        That's better than Coinbase but still really low.
       </td>
     </tr>
     <tr>
@@ -151,10 +151,7 @@ When I started trading, [Bittrex](https://bittrex.com) was the perfect exchange 
     <tr>
       <td style="white-space: nowrap;">Crypto-Assets</td>
       <td style="text-align: center;">★★★☆</td>
-      <td>
-        There are more than 1,300 crypto coins and tokens in existence,<br>
-        but only 4 available on Coinbase.
-      </td>
+      <td>~ 200 different cryptocurrencies.</td>
     </tr>
     <tr>
       <td>UX</td>
@@ -199,8 +196,8 @@ And last but not least : they included all the Bitcoin and Ethereum forks, which
       <td style="white-space: nowrap;">Crypto-Assets</td>
       <td style="text-align: center;">★★★☆</td>
       <td>
-        There are more than 1,300 crypto coins and tokens in existence,<br>
-        but only 4 available on Coinbase.
+        ~ 90 different cryptocurrencies. That's the only weak point in front of Bittrex,
+        but they have multiple exclusivities and are adding new coin almost everyday and should catch up.
       </td>
     </tr>
     <tr>
