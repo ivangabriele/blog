@@ -68,7 +68,9 @@ linkedin_username: "ivangabriele"
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
 paginate_path: '/blog/page:num/'
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 permalink: pretty
 markdown: kramdown
