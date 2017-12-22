@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <title>{% if page.title %}{{ site.title | prepend: ' - ' | preprend: page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="{{ " /favicon.ico " | prepend: site.baseurl }}">
@@ -11,7 +12,6 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ " /feed.xml
       " | prepend: site.baseurl | prepend: site.url }}">
 
-    {% seo %}
     <meta content="1556386487762936" property="fb:app_id">
     {% if page.date %}
     <!-- <meta content="{{ site.url }}/about/" property="article:author"> -->
@@ -27,13 +27,24 @@
     <script type="application/ld+json">
       {
         "@context": "http://schema.org",
-        "image": "{{ "/images/posts/" | append: page.banner_image | prepend: site.baseurl }}",
+        "@type": "{% if page.date %}BlogPosting{% else %}{% endif %}",
         "author": "{{ site.author_name }}",
+        {% if page.description %}
+        "description": "{{ page.description | smartify }}",
+        {% endif %}
+        {% if page.date %}
+        "datePublished": "{{ page.date | date_to_xmlschema }}",
+        {% endif %}
+        {% if page.title %}
+        "headline": "{{ page.title | smartify }}",
+        {% endif %}
         {% if page.tags %}
         "keywords": "{{ page.tags | array_to_sentence_string: '' | replace: ',' ,'' | replace: '  ', ' ' }}",
         {% endif %}
-        "url": "{{ page.url | prepend: site.url }}",
-        "wordcount": "{{ page.content | number_of_words }}"
+        "image": "{{ "/images/posts/" | append: page.banner_image | prepend: site.baseurl }}",
+        "publisher": "{{ site.author_name }}",
+        "wordcount": "{{ page.content | number_of_words }}",
+        "url": "{{ page.url | prepend: site.url }}"
       }
     </script>
 </head>
