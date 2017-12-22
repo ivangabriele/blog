@@ -20,7 +20,7 @@ That being said, I started trading in August 2017 and had to struggle with most 
 
 ## Coinbase: the best UX, but really high fees
 
-I started trading in August 2017 and first used [Coinbase](https://www.coinbase.com) which is clearly the most famous, fancy and [fast-growing](https://techcrunch.com/2017/08/10/coinbase-raises-100m-at-a-1-6b-valuation-amid-explosive-growth/) San Francisco crypto-startup.
+I started trading in August 2017 and first used [Coinbase](https://www.coinbase.com/join/52d1cd906c6884c5a3000023) which is clearly the most famous, fancy and [fast-growing](https://techcrunch.com/2017/08/10/coinbase-raises-100m-at-a-1-6b-valuation-amid-explosive-growth/) San Francisco crypto-startup.
 
 Most traders you will met, who started trading in 2017 and are from a Western country, will tell you that they bought their first Bitcoins, Ethereums or Litecoins on Coinbase. Why ? Because the design is really friendly and makes you feel [deservedly safe](https://www.futureofeverything.io/2017/11/28/coinbase-safe/).
 
@@ -69,13 +69,13 @@ Most traders you will met, who started trading in 2017 and are from a Western co
 
 ### What about GDAX ?
 
-[GDAX](https://www.gdax.com) is a subsidiary of Coinbase, with (really) lower fees. However, the coins prices on this marketplace are often the highest among main exchanges ones. So the low fees are worthless if you have to pay a "premium" for any coin you buy. This is without saying that **only 3 coins** are available on GDAX. This is why I didn't even add it to this comparison.
+[GDAX](https://www.gdax.com) is a subsidiary of [Coinbase](https://www.coinbase.com/join/52d1cd906c6884c5a3000023), with (really) lower fees. However, the coins prices on this marketplace are often the highest among main exchanges ones. So the low fees are worthless if you have to pay a "premium" for any coin you buy. This is without saying that **only 3 coins** are available on GDAX. This is why I didn't even add it to this comparison.
 
 The strengh of GDAX lays upon its Bitcoins volumes. Indeed, this is interesting for big traders managing millions of dollars worth of Bitcoins because they can set up huge Bitcoins buy and sell orders without the risk of influencing the exchange market.
 
 ## Kraken: the serious one
 
-[Kraken](ttps://www.kraken.com) is the second exchange I regularly used to get rid of Coinbase fees. I chose this one because it's a serious one. How do I knew that ? Because this exchange was the one [being appointed by the bankruptcy trustee to assist in processing Mt. Gox claims](https://en.wikipedia.org/wiki/Mt._Gox#Bankruptcy;_stolen_bitcoin_(2014–16)), and we are talking about 127,000 investors. Moreover, Kraken is also based in San Francisco and has been around for 6+ years, so that's another seal of trust.
+[Kraken](ttps://www.kraken.com) is the second exchange I regularly used to get rid of [Coinbase](https://www.coinbase.com/join/52d1cd906c6884c5a3000023) fees. I chose this one because it's a serious one. How do I knew that ? Because this exchange was the one [being appointed by the bankruptcy trustee to assist in processing Mt. Gox claims](https://en.wikipedia.org/wiki/Mt._Gox#Bankruptcy;_stolen_bitcoin_(2014–16)), and we are talking about 127,000 investors. Moreover, Kraken is also based in San Francisco and has been around for 6+ years, so that's another seal of trust.
 
 <table>
   <caption>Kraken Evaluation</caption>
