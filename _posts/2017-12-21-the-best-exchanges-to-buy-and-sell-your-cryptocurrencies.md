@@ -4,7 +4,7 @@ title:  "The best exchanges to buy and sell your cryptocurrencies"
 date:   2017-12-21
 banner_image: bitcoin-trading.jpg
 tags: [Bitcoin, cryptocurrencies]
-description: "You may wonder why I am writting about a subject like this one despite always repeating that *« The abrupt truth about Bitcoin is that, if its value was not sharply growing as it does, a lot less people would care about it. ». In short : yes, definetely yes, right now, most people trade Bitcoins and cryptocurrencies out of speculation."
+description: "You may wonder why I am writting about a subject like this one despite always repeating that « The abrupt truth about Bitcoin is that, if its value was not sharply growing as it does, a lot less people would care about it. ». In short : yes, definetely yes, right now, most people trade Bitcoins and cryptocurrencies out of speculation."
 ---
 
 You may wonder why I am writting about a subject like this one despite always repeating that *« The abrupt truth about Bitcoin is that, if its value was not sharply growing as it does, a lot less people would care about it. »* <sup>[1](https://twitter.com/ivan_gabriele/status/937665790622433280)</sup>. In short : yes, definetely yes, right now, most people trade Bitcoins and cryptocurrencies out of speculation.
