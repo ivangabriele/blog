@@ -49,8 +49,8 @@
         "keywords": "{{ page.tags | array_to_sentence_string: '' | replace: ',' ,'' | replace: '  ', ' ' }}",
         {% endif %}
         "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://google.com/article"
+          "@type": "Blog",
+          "@id": "{{ site.url }}"
         },
         "publisher": {
           "@type": "Person",
