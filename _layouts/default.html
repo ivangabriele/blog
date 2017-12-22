@@ -55,8 +55,11 @@
         },
         "publisher": {
           "@type": "Organization",
-          "logo": "{{ '/images/logo.svg' | prepend: site.url }}",
-          "name": "{{ site.author_name }}"
+          "name": "{{ site.author_name }}",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{ '/images/logo.svg' | prepend: site.url }}"
+          }
         },
         "wordcount": "{{ page.content | number_of_words }}",
         "url": "{{ page.url | prepend: site.url }}"
