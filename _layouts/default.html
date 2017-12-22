@@ -30,7 +30,7 @@
         "image": "{{ "/images/posts/" | append: page.banner_image | prepend: site.baseurl }}",
         "author": "{{ site.author_name }}",
         {% if page.tags %}
-        "keywords": "{{ page.tags | array_to_sentence_string | replace: ',' ,'' }}",
+        "keywords": "{{ page.tags | array_to_sentence_string: '' | replace: ',' ,'' | replace: '  ', ' ' }}",
         {% endif %}
         "url": "{{ page.url | prepend: site.url }}",
         "wordcount": "{{ page.content | number_of_words }}"
