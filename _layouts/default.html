@@ -14,10 +14,10 @@
       " | prepend: site.baseurl | prepend: site.url }}">
 
     <meta content="1556386487762936" property="fb:app_id">
+    <meta content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}" property="og:title">
     {% if page.date %}
     <meta content="article" property="og:type">
     <meta content="{{ page.title }}" property="og:title">
-    <meta content="{{ page.url | prepend: site.url }}" property="og:url">
     <!-- <meta content="{{ site.url }}/about/" property="article:author"> -->
     {% else %}
     <meta content="website" property="og:type">
