@@ -28,21 +28,34 @@
       {
         "@context": "http://schema.org",
         "@type": "{% if page.date %}BlogPosting{% else %}{% endif %}",
-        "author": "{{ site.author_name }}",
+        "author": {
+          "@type": "Person",
+          "name": "{{ site.author_name }}"
+        },
         {% if page.description %}
         "description": "{{ page.description | smartify }}",
         {% endif %}
         {% if page.date %}
+        "dateModified": "{{ page.date | date_to_xmlschema }}",
         "datePublished": "{{ page.date | date_to_xmlschema }}",
         {% endif %}
         {% if page.title %}
         "headline": "{{ page.title | smartify }}",
         {% endif %}
         {% if page.tags %}
+        {% if page.banner_image %}
+        "image": "{{ '/images/posts/' | append: page.banner_image | prepend: site.url }}",
+        {% endif %}
         "keywords": "{{ page.tags | array_to_sentence_string: '' | replace: ',' ,'' | replace: '  ', ' ' }}",
         {% endif %}
-        "image": "{{ "/images/posts/" | append: page.banner_image | prepend: site.baseurl }}",
-        "publisher": "{{ site.author_name }}",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://google.com/article"
+        },
+        "publisher": {
+          "@type": "Person",
+          "name": "{{ site.author_name }}"
+        },
         "wordcount": "{{ page.content | number_of_words }}",
         "url": "{{ page.url | prepend: site.url }}"
       }
