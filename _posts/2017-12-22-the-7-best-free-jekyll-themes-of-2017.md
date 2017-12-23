@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The 8 best free Jekyll themes of 2017"
+title:  "The 7 best free Jekyll themes of 2017"
 date:   2017-12-22
 banner_image: jekyll.jpg
 tags: [Jekyll]
@@ -17,53 +17,77 @@ All the themes presented here are responsive. And, so you know, this very blog [
 
 <!--more-->
 
-### Twenty: Professional and Multipurpose
-
-
+## Twenty: Professional and Multipurpose
 
 * **Demo:** [https://html5up.net/twenty](https://html5up.net/twenty)
 * **Github:** [https://github.com/old-jekyll-templates/Twenty-Jekyll-Theme](https://github.com/old-jekyll-templates/Twenty-Jekyll-Theme)
 
-### Jasper2: Webzine for Professional Publishers
+![Twenty Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-twenty-1.jpg" }})
 
+![Twenty Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-twenty-2.jpg" }})
 
+---
+
+## Jasper2: Webzine for Professional Publishers
 
 * **Demo:** [https://myjekyll.github.io/jasper2/](https://myjekyll.github.io/jasper2/)
 * **Github:** [https://github.com/myJekyll/jasper2](https://github.com/myJekyll/jasper2)
 
-### Forty: Original and Trendy
+![Jasper2 Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-jasper2-1.jpg" }})
 
+![Jasper2 Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-jasper2-2.jpg" }})
 
+---
+
+## Forty: Original and Trendy
 
 * **Demo:** [https://andrewbanchich.gitlab.io/forty-jekyll-theme/](https://andrewbanchich.gitlab.io/forty-jekyll-theme/)
 * **Github:** [https://github.com/andrewbanchich/Forty-Jekyll-Theme](https://github.com/andrewbanchich/Forty-Jekyll-Theme)
 
+![Forty Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-forty-1.jpg" }})
 
-### Chalk: Minimalist and Clean
+![Forty Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-forty-2.jpg" }})
 
+---
 
+## Chalk: Minimalist and Clean
 
 * **Demo:** [http://chalk.nielsenramon.com](http://chalk.nielsenramon.com)
 * **Github:** [https://github.com/nielsenramon/chalk](https://github.com/nielsenramon/chalk)
 
-### Spectral: Single-Page and Light
+![Chalk Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-chalk-1.jpg" }})
 
+![Chalk Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-chalk-2.jpg" }})
 
+---
+
+## Spectral: Single-Page and Light
 
 * **Demo:** [http://arkadianriver.github.io/spectral/](http://arkadianriver.github.io/spectral/)
 * **Github:** [https://github.com/arkadianriver/spectral](https://github.com/arkadianriver/spectral)
 
-### Online CV: Simple and Effective
+![Spectral Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-spectral-1.jpg" }})
 
+![Spectral Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-spectral-2.jpg" }})
 
+---
+
+## Online CV: Simple and Effective
 
 * **Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/)
 * **Github:** [https://github.com/sharu725/online-cv](https://github.com/sharu725/online-cv)
 
+![Online Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-online-cv-1.jpg" }})
 
-### Lanyon: Your projects deserve a beautiful documentation
+![Online Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-online-cv-2.jpg" }})
 
+---
 
+## Lanyon: Your projects deserve a beautiful documentation
 
 * **Demo:** [http://lanyon.getpoole.com](http://lanyon.getpoole.com)
 * **Github:** [https://github.com/poole/lanyon](https://github.com/poole/lanyon)
+
+![Lanyon Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-lanyon-1.jpg" }})
+
+![Lanyon Jekyll Theme]({{ "/images/posts/2017-12-22/jekyll-theme-twelanyonnty-2.jpg" }})
