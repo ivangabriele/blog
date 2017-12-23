@@ -124,8 +124,6 @@ However, for the everyday trades between cryptocurrencies, the fees are too high
 
 When I started trading, [Bittrex](https://bittrex.com) was the perfect exchange that most Western crypto-traders were talking about (as [Poloniex](https://poloniex.com) was before Bittrex). Why ? Because it was the best equilibrium between reasonable fees, high-enough volumes and many different cryptocurrencies available.
 
-> *In progress...*
-
 <table>
   <caption>Bittrex Evaluation</caption>
   <thead>
