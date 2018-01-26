@@ -17,7 +17,7 @@ At first, it worked very well for them. However, a few years later, they noticed
 
 So they did what any good businessperson would do in the 1970's. They hired an expert !
 
-His business card title was this kind of title that looks impressive, although, or because, you don't, or can't, understand it.
+His business card title was this kind of title that looks daunting, although – or because – you don't understand it.
 
 Anyway, they met him. They told all about their productivity issues and everything they tried so far. He listened, looked unimpressed, and answered that he would stay in the factory during two weeks in order to "observe" the environment. It goes without saying that it was shorter than eveything they expected ! This answer both relieved and worried them at the same time. The relief part came from his exorbitant daily cost. The worry one came from their own self-esteem.
 
@@ -29,7 +29,7 @@ Since he was an expert, or maybe because he needed to justify the number of zero
 
 Once the audit report title effect passed, he told them:
 
-*— This report is my job. But let me tell what will recover your productivity for the coming years.*
+*— This report is my job. But let me tell what will – really – recover your productivity for the coming years.*
 
 They were surprised but all ears. He then added:
 
