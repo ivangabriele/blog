@@ -55,9 +55,9 @@ It didn't work. How so ? They were stunned again.
 
 They called him. He was not surprised. After all, he was an expert and an expert is not supposed to be surprised. A expert expects, but never wonders. He told them to decrease the light by 10 percent instead.
 
-They did it. It worked...
+They did it and it worked...
 
-They called him again to try understanding what kind of witchcraft he was using to guess what to do.
+They called him again to try understanding what kind of witchcraft he was using to guess that kind of thing.
 
 His answer held in 3 words:
 
@@ -67,6 +67,6 @@ In short, what was important was not the light, but a combination of the change 
 
 This story taught me how both sensitive and subtle we are, as human beings.
 
-Our behaviors change because our environment does while, surprisingly, these behavior are more impacted by understated influences than by loudy transformations. Indeed, when an influence cause our consciousness to react, our evanescent emotions often drown our lasting feelings. We react instead of changing.
+**Our behaviors change because our environment does while – surprisingly – these behaviors are more impacted by understated influences than by loudy transformations.** Indeed, when an influence cause our consciousness to react, our evanescent emotions often drown our lasting feelings. We react instead of changing.
 
 This paradox helped me understand so many things about how people and communities act, and react.
