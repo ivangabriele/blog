@@ -67,6 +67,6 @@ In short, what was important was not the light, but a combination of the change 
 
 This story taught me how both sensitive and subtle we are, as human beings.
 
-**Our behaviors change because our environment does while – surprisingly – these behaviors are more impacted by understated influences than by loudy transformations.** Indeed, when an influence cause our consciousness to react, our evanescent emotions often drown our lasting feelings. We react instead of changing.
+**Our behaviors change because our environment does while – surprisingly – these behaviors are more impacted by understated influences than by momentous transformations.** Indeed, when an influence cause our consciousness to react, our evanescent emotions often drown our lasting feelings. We react instead of changing.
 
 This paradox helped me understand so many things about how people and communities act, and react.
