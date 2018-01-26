@@ -4,14 +4,14 @@ title: "The Story of a Factory Light"
 date: 2018-01-26
 banner_image: factory-light.jpg
 tags: [opinion, phylosophy, psychology, social science, society]
-description: "I was taught this meaningful story by an old retired foreman. It has been etched on my memory ever since. This old man rests among these few special strangers of whom I will always forget the name, but never forget the life. He worked his entire life at the same garment factory. It was this kind of typical family-owned middle size company, thus very paternalistic."
+description: "I was taught this meaningful story by an old retired foreman. It has been etched on my memory ever since. This old man rests among these few met strangers of whom I will always forget the name, but never forget the life. He worked his entire life at the same garment factory. It was this kind of typical family-owned middle size company, thus very paternalistic."
 ---
 
-I was taught this meaningful story by an old retired foreman. It has been etched on my memory ever since. This old man rests among these few special strangers of whom I will always forget the name, but never forget the life.
-
-<!--more-->
+I was taught this meaningful story by an old retired foreman. It has been etched on my memory ever since. This old man rests among these few met strangers **of whom I will always forget the name, but never forget the life**.
 
 He worked his entire life at the same garment factory. It was this kind of typical family-owned middle size company, thus very paternalistic. During the 1970's, their growth, and the modernization, pushed them to switch from their management by intuition to a more "contemporary" one. A synonym of "Business School" management I guess.
+
+<!--more-->
 
 At first, it worked very well for them. However, a few years later, they noticed that the productivity of their workers decreased, month after month. They thus tried everything they could to fix that. From higher pressure to better rewards. But nothing really worked. At least not by a long shot.
 
