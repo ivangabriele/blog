@@ -15,15 +15,13 @@ He worked his entire life at the same garment factory. It was this kind of typic
 
 At first, it worked very well for them. However, a few years later, they noticed that the productivity of their workers decreased, month after month. They thus tried everything they could to fix that. From higher pressure to better rewards. But nothing really worked. At least not by a long shot.
 
-So they did what any good businessperson would do in the 1970's. They hired an expert !
+So, they did what any good businessperson would do in the 1970's. They hired an expert !
 
 His business card title was this kind of title that looks daunting, although – or because – you don't understand it.
 
-Anyway, they met him. They told all about their productivity issues and everything they tried so far. He listened, looked unimpressed, and answered that he would stay in the factory during two weeks in order to "observe" the environment. It goes without saying that it was shorter than eveything they expected ! This answer both relieved and worried them at the same time. The relief part came from his exorbitant daily cost. The worry one came from their own self-esteem.
+Anyway, they met him. They told all about their productivity issues and everything they tried so far. He listened, looked unimpressed, and answered that he would stay in the factory during two weeks in order to "observe" the environment. It goes without saying that it was shorter than everything they expected ! This answer both relieved and worried them at the same time. The relief part came from his exorbitant daily cost. The worry one came from their own self-esteem.
 
-So the expert came to the factory. He observed. He took notes. He went through the internal reports. He even talked to some people. He looked involved.
-
-Once the two weeks had passed, he invited them to the long-awaited meeting. They were in a hurry to hear his outcome.
+The expert came to the factory. He observed. He took notes. He went through the internal reports. He even talked to some people. He looked involved. And after the two weeks passed, he invited them to the long-awaited meeting. They were in a hurry to hear his outcome.
 
 Since he was an expert, or maybe because he needed to justify the number of zeros on the invoice he was about to send them, he put on the table a big pile of paper. A lot of of sheets filled with analyses and suggestions. The title was something even better than any report they had never seen so far: *« Audit Report »*. Suffice it to say that it was the cream of the crop of the reports during the 1970's.
 
@@ -37,7 +35,7 @@ They were surprised but all ears. He then added:
 
 They looked at each other, trying to understand if it was some sort of experts inside joke. But it was not. That was disappointing, to say the least. They swear to themselves they would never hire an expert again.
 
-But... they were so desesperate that they still followed this unlikely advice and indeed increased the factory light by precisely 10 percent.
+But... they were so desperate that they still followed this unlikely advice and indeed increased the factory light by precisely 10 percent.
 
 And indeed, not only the productivity recovered but it went even above their previous average.
 
@@ -63,10 +61,10 @@ His answer held in 3 words:
 
 *— Unconscious perceptible change.*
 
-In short, what was important was not the light, but a combination of the change itself and its grade. To increase their productivity, they had to find somthing to change that was at same time: global enough to touch everybody, light enough to avoid triggering a conscious reaction, and significant enough to touch their subconscious, thus their feeling.
+In short, what was important was not the light, but a combination of the change itself and its grade. To increase their productivity, they had to find something to change that was at same time: global enough to touch everybody, light enough to avoid triggering a conscious reaction, and significant enough to touch their subconscious, thus their feeling.
 
 This story taught me how both sensitive and subtle we are, as human beings.
 
-**Our behaviors change because our environment does while – surprisingly – these behaviors are more impacted by understated influences than by momentous transformations.** Indeed, when an influence cause our consciousness to react, our evanescent emotions often drown our lasting feelings. We react instead of changing.
+**Our behaviors change because our environment does while – surprisingly – these behaviors are more impacted by understated influences than by momentous transformations.** Indeed, when an influence causes our consciousness to react, our evanescent emotions often drown our lasting feelings. We react instead of changing.
 
 This paradox helped me understand so many things about how people and communities act, and react.
