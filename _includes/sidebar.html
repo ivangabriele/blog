@@ -24,12 +24,14 @@
     </section><!-- .widget -->
     {% endif %}
 
-    {% if site.banner_image %}
-    <section class="widget widget-text">
-        <p><a href="{{ site.banner_url }}" target="_blank"><img src="{{ site.baseurl }}/{{ site.banner_image }}" alt="Optional Banner Ad" /></a></p>
-        <p style="font-size: .9em; text-align: justify;">{{ site.banner_text }}</p>
-    </section><!-- .widget-text-->
-    {% endif %}
+    {% comment %}
+        {% if site.banner_image %}
+        <section class="widget widget-text">
+            <p><a href="{{ site.banner_url }}" target="_blank"><img src="{{ site.baseurl }}/{{ site.banner_image }}" alt="Optional Banner Ad" /></a></p>
+            <p style="font-size: .9em; text-align: justify;">{{ site.banner_text }}</p>
+        </section><!-- .widget-text-->
+        {% endif %}
+    {% endcomment %}
 
     <section class="widget widget-recent-posts">
         <h2 class="widget-title">Latest Posts</h2>
