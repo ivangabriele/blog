@@ -61,7 +61,7 @@ His answer held in 3 words:
 
 *— Unconscious perceptible change.*
 
-In short, what was important was not the light, but a combination of the change itself and its grade. To increase their productivity, they had to find something to change that was at same time: global enough to touch everybody, light enough to avoid triggering a conscious reaction, and significant enough to touch their subconscious, thus their feeling.
+In short, what was important was not the light, but a combination of the change itself and how big it had to be. To increase their productivity, they had to find something to change that was at same time: global enough to affect everybody, light enough to avoid triggering a conscious reaction, and significant enough to reach their subconscious, thus their feeling.
 
 This story taught me how both sensitive and subtle we are, as human beings.
 
