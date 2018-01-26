@@ -25,7 +25,7 @@ So the expert came to the factory. He observed. He took notes. He went through t
 
 Once the two weeks had passed, he invited them to the long-awaited meeting. They were in a hurry to hear his outcome.
 
-Since he was an expert, or maybe because he needed to justify the number of zeros on the invoice he was about to send them, he put on the table a big pile of paper. A lot of of sheets filled with analyses and suggestions. The title was something even better than any report they had never seen so far: **« Audit Report »**. Suffice it to say that it was the cream of the crop of the reports during the 1970's.
+Since he was an expert, or maybe because he needed to justify the number of zeros on the invoice he was about to send them, he put on the table a big pile of paper. A lot of of sheets filled with analyses and suggestions. The title was something even better than any report they had never seen so far: *« Audit Report »*. Suffice it to say that it was the cream of the crop of the reports during the 1970's.
 
 Once the audit report title effect passed, he started by:
 
