@@ -29,7 +29,7 @@ Since he was an expert, or maybe because he needed to justify the number of zero
 
 Once the audit report title effect passed, he told them:
 
-*— This report is my job. But let me tell you the real suggestion able to recover your productivity for the coming years.*
+*— This report is my job. But let me tell what will recover your productivity for the coming years.*
 
 They were surprised but all ears. He then added:
 
