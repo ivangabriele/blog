@@ -7,7 +7,7 @@ tags: [opinion, phylosophy, psychology, social science, society]
 description: "I was taught this meaningful story by an old retired foreman, and it has been etched in my memory ever since. He was this kind of stranger whose name you will forget but whose story will live on in your memory. He worked his entire life at the same garment factory. He began by telling me how he worked his entire life at the same garment factory. It was the typical family-owned middle size company, thus very paternalistic."
 ---
 
-I was taught this meaningful story by an old retired foreman, and it has been etched in my memory ever since. He was this kind of stranger **whose name you will forget but whose story will live on in your memory.**.
+I was taught this meaningful story by an old retired foreman, and it has been etched in my memory ever since. He was this kind of stranger **whose name you will forget but whose story will live on in your memory**.
 
 He began by telling me how he worked his entire life at the same garment factory. It was the typical family-owned middle size company, thus very paternalistic. During the 1970s, their growth and the modernization pushed them to switch from their current management by intuition to a more “contemporary” system. A synonym of “Business School” management, I guess.
 
