@@ -31,4 +31,4 @@ gem 'jekyll-seo-tag'
 
 # https://blog.heroku.com/jekyll-on-heroku
 gem "rake"
-ruby "2.4.3"
+ruby "2.5"
