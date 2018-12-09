@@ -12,7 +12,7 @@ title: "Ivan Gabriele"
 description: "French Music composer. Here are some extracts of the raw trepidations from my unravelled mind."
 
 # Tagline near the site title
-tagline: ""
+tagline: "Music Composer In The Making. Hopefully."
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -39,7 +39,7 @@ disqus: ivan-gabriele
 
 # Author information - author info at the bottom of the post
 author_name: "Ivan Gabriele"
-author_bio: "Ex-entrepreneur and developer in the process of becoming a music composer. Hopefully.<br>Actually in Paris, I also lived in Brazil, England, Russia and the US.<br>I'm in love with argumentativeness and deep travels."
+author_bio: "Ex-entrepreneur and developer in the process of becoming a music composer.<br>Actually in Paris, I also lived in Brazil, England, Russia and the US.<br>I'm in love with argumentativeness and deep travels."
 author_url:  "http://www.ivangabriele.com"
 author_location: "Paris, France"
 author_image: /images/ivan-gabriele.png
