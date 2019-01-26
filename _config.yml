@@ -9,10 +9,10 @@
 title: "Ivan Gabriele"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "French Music composer. Here are some extracts of the raw trepidations from my unravelled mind."
+description: "Zebra in a permanent re-evolution. Here are some extracts of the raw trepidations from my unravelled mind."
 
 # Tagline near the site title
-tagline: "Music Composer In The Making. Hopefully."
+tagline: "Passionate about everything."
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -39,31 +39,20 @@ disqus: ivan-gabriele
 
 # Author information - author info at the bottom of the post
 author_name: "Ivan Gabriele"
-author_bio: "Ex-entrepreneur and developer in the process of becoming a music composer.<br>Actually in Paris, I also lived in Brazil, England, Russia and the US.<br>I'm in love with argumentativeness and deep travels."
+author_bio: "Entrepreneur and Full-Stack Developer.<br>Actually in Paris, I also lived in Brazil, England, Russia and the US.<br>I'm in love with argumentativeness and deep traveling."
 author_url:  "http://www.ivangabriele.com"
 author_location: "Paris, France"
 author_image: /images/ivan-gabriele.png
-
-# Sidebar Add banner
-banner_url: "https://www.binance.com/?ref=10265687"
-banner_image: images/binance-banner.png
-banner_text: "If you're looking for a serious exchange to trade crypto-currencies, I strongly vouch for <a href=\"https://www.binance.com/?ref=10265687\" target=\"_blank\">Binance</a>. I use it myself and wrote <a href=\"/2017/12/21/the-best-exchanges-to-buy-and-sell-your-cryptocurrencies\">a detailed article</a> to explain why it has become my main exchange."
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 mailchimp_url: "//inspired-beings.us4.list-manage.com/subscribe/post?u=b6cde986b53329195cc6f9d8e&amp;id=d76e394a53"
 
 # Social links in the site footer
 twitter_username: "Ivan_Gabriele"
-# facebook_username: "username"
 googleplus_username: "+IvanGabriele"
 github_username: "ivangabriele"
-# codepen_username: "username"
-# dribbble_uername: "username"
 medium_username: "@ivan_gabriele"
-# instagram_username: "username"
-# pinterest_username: "username"
 linkedin_username: "ivangabriele"
-# weibo_username: "username"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
