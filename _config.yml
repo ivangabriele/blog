@@ -15,7 +15,7 @@ description: "Zebra in a permanent re-evolution. Here are some extracts of the r
 tagline: "Passionate about everything."
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl:
+# baseurl:
 
 sass:
   sass_dir: _sass
@@ -25,22 +25,22 @@ url: "https://www.ivangabriele.com"
 
 # Site navigation - each item must have a title and a url.
 navigation:
-- text: Home
-  url: /
-# - text: About
-#   url: /about/
-# - text: Style Guides
-#   url: /style-guide/
-- text: Archives
-  url: /tags/
+  - text: Home
+    url: /
+  # - text: About
+  #   url: /about/
+  # - text: Style Guides
+  #   url: /style-guide/
+  - text: Archives
+    url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus: ivan-gabriele
+# disqus: ivan-gabriele
 
 # Author information - author info at the bottom of the post
 author_name: "Ivan Gabriele"
 author_bio: "Full-Stack Developer and Casual Entrepreneur. Currently living in Paris. Also lived in Brazil, England, Russia and the US. In love with argumentativeness and deep traveling."
-author_url:  "http://www.ivangabriele.com"
+author_url: "http://www.ivangabriele.com"
 author_location: "Paris, France"
 author_image: /images/ivan-gabriele.png
 
@@ -56,7 +56,7 @@ linkedin_username: "ivangabriele"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
-paginate_path: '/blog/page:num/'
+paginate_path: "/blog/page:num/"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -65,4 +65,4 @@ plugins:
 permalink: pretty
 markdown: kramdown
 kramdown:
-    auto_ids: false
+  auto_ids: false
